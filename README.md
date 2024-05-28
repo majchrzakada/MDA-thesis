@@ -3,7 +3,7 @@
 ### Framingham
 Directory with files for Framingham dataset.
 <ul>
-  <li>fisher_tables.pdf -- tables with resulting p-values from Fisher test for each missing variable's missingness indicator vs the rest of variables in the dataset</li>
+  <li>fisher_tables.pdf $mdash; tables with resulting p-values from Fisher test for each missing variable's missingness indicator vs the rest of variables in the dataset</li>
   <li>plots -- contains three subdirectories, MCAR, MAR and MNAR, each storing the imputation plots and missingness plots for corresponding missing data mechanism</li>
 </ul>
 
