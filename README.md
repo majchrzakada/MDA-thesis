@@ -4,19 +4,22 @@
 Directory with files for Framingham dataset:
 <ul>
   <li>fisher_tables.pdf &mdash; tables with resulting p-values from Fisher test for each missing variable's missingness indicator vs the rest of variables in the dataset,</li>
-  <li>plots &mdash; contains three subdirectories, MCAR, MAR and MNAR, each storing the imputation plots and missingness plots for corresponding missing data mechanism.</li>
+  <li>plots &mdash; directory containing three subdirectories, MCAR, MAR and MNAR, each storing the imputation plots and missingness plots for corresponding missing data mechanism,</li>
+  <li>codes &mdash; directory containing .ipynb notebooks with codes and necessary .csv files.</li>
 </ul>
 
 ### Hepatitis
 Directory with files for Hepatitis dataset:
 <ul>
   <li>fisher_tables.pdf &mdash; tables with resulting p-values from Fisher test for each missing variable's missingness indicator vs the rest of variables in the dataset,</li>
-  <li>plots &mdash; imputation plots and missingness plots.</li>
+  <li>plots &mdash; imputation plots and missingness plots,</li>
+  <li>codes &mdash; directory containing .ipynb notebooks with codes and necessary .csv files.</li>
 </ul>
 
 ### SyntheticData
 Directory with two subdirectories:
 <ul>
   <li>classification_plots &mdash; imputation plots and missingness plots for data generated for the classification task,</li>
-  <li>statistical_estimates_plots &mdash; imputation plots and missingness plots for data generated for statistical estimation task.</li>
+  <li>statistical_estimates_plots &mdash; imputation plots and missingness plots for data generated for statistical estimation task,</li>
+  <li>codes &mdash; directory containing .ipynb notebooks with codes.</li>
 </ul>
